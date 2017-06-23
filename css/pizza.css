@@ -1,0 +1,30 @@
+body {
+  background-color: #ff8080;
+  color: #333;
+  margin-top: -180px;
+  padding-left: 1em;
+  padding-top: 1em;
+}
+
+h1, h2 {
+  font-family: Georgia, serif;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a,
+a:hover,
+a:visited {
+  color: #09f;
+}
+
+header {
+
+}
+
+svg {
+  margin-left: 1em;
+  margin-top: .5em;
+}
